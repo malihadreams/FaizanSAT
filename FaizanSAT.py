@@ -110,7 +110,7 @@ while True:
     elif choice == "5":
          webbrowser.open("https:/github.com/faizan-khanx/")
     elif choice == "6":
-         webbrowser.open("https:/instagram.com/EthicalFaizan/")
+         webbrowser.open("https:/instagram.com/EthicalFaizann/")
     elif choice == "7":
          webbrowser.open("https:/linkedin.com/in/Ethicalfaizan/")
     elif choice == "8":
